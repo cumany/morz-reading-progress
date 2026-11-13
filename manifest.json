@@ -1,0 +1,9 @@
+{
+  "id": "morz.reading-progress",
+  "name": "阅读进度",
+  "version": "1.0.0",
+  "description": "在状态栏显示当前文档的阅读进度和剩余时间。",
+  "author": "Morz",
+  "sdk": 1,
+  "permissions": ["workspace", "settings"]
+}
